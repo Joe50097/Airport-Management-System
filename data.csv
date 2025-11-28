@@ -1,0 +1,5 @@
+Flight,1,01/04/2025,12:30,4.0,9,20,30,10,20,30,,Joe Y;
+Pilot,Paul Riachy,18,Pilot,false,538898,74.0
+FlightAttendant,Joe Y,18,Flight Attendant,Yes,453748,10.0,en;ar
+Passenger,Abbes Shamas,19,A6374,12-121212
+Ticket,1,First,F10,3200.0,Abbes Shamas,19,A6374,12-121212,01/04/2025,12:30,4.0
